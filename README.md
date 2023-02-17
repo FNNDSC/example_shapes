@@ -2,5 +2,3 @@
 
 A datalad repository containing example volume files in NIFTI and MINC format of geometric shapes.
 
-DOES NOT WORK because I can't figure out Datalad!
-
